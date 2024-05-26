@@ -5,7 +5,7 @@ Once you've installed BooruHub, you need to connect it to your Booru imageboard 
 ## Booru Root URL
 The main parameter you need to enter is the Booru root URL. This URL serves as the primary address through which BooruHub communicates with your imageboard server. For example, if your server's root URL is `https://moe.fiepi.com`, you would enter this into BooruHub:
 
-![Example Booru](assets/example_booru.png)
+<img src="https://github.com/onlymash/BooruHubDocs/blob/master/assets/example_booru.png?raw=true" width=400 alt="Example booru"/>
 
 ### Important Considerations
 When you copy or manually type the root URL, make sure to include the `http://` or `https://` part as well. This is crucial because it tells the BooruHub app whether to use a secure (HTTPS) or an unsecured (HTTP) connection. Failing to include this can lead to connection issues and prevent the app from functioning correctly.
@@ -13,7 +13,7 @@ When you copy or manually type the root URL, make sure to include the `http://` 
 ## Example Configuration
 To help you get started, here is an example configuration screen:
 
-![Example Configuration](assets/example_config.jpg)
+<img src="https://github.com/onlymash/BooruHubDocs/blob/master/assets/example_config.jpg?raw=true" width=400 alt="Example booru"/>
 
 In this example, you can see how the root URL is properly entered. Ensure that your settings match this format for optimal performance.
 
