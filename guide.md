@@ -1,4 +1,4 @@
-### BooruHub Usage Instructions
+# BooruHub Usage Instructions
 
 Once you've installed BooruHub, you need to connect it to your Booru imageboard server. BooruHub can be connected to both public and private imageboards. For instance, you can use open-source platforms like [Danbooru](https://github.com/danbooru/danbooru) or [Moebooru](https://github.com/moebooru/moebooru) to build your own image hosting service. These platforms provide a robust and customizable solution for managing large collections of images.
 
