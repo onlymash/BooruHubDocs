@@ -17,8 +17,8 @@
 | Tbib        | Gelbooru  | [https://tbib.org](booru://ewogICAgIm5hbWUiOiAiVEJJQiIsCiAgICAidXJsIjogImh0dHBzOi8vdGJpYi5vcmciLAogICAgImljb25fdXJsIjogIiIsCiAgICAidHlwZSI6ICJnZWxib29ydSIKfQ) |
 | Xbooru      | Gelbooru  | [https://xbooru.com](booru://ewogICAgIm5hbWUiOiAiWGJvb3J1IiwKICAgICJ1cmwiOiAiaHR0cHM6Ly94Ym9vcnUuY29tIiwKICAgICJpY29uX3VybCI6ICIiLAogICAgInR5cGUiOiAiZ2VsYm9vcnUiLAogICAgImFwaV9rZXkiOiAiIiwKICAgICJhcGlfaWQiOiAiIgp9) |
 | Realbooru   | Gelbooru  | [https://realbooru.com](booru://ewogICAgIm5hbWUiOiAiUmVhbGJvb3J1IiwKICAgICJ1cmwiOiAiaHR0cHM6Ly9yZWFsYm9vcnUuY29tIiwKICAgICJpY29uX3VybCI6ICIiLAogICAgInR5cGUiOiAiZ2VsYm9vcnUiLAogICAgImFwaV9rZXkiOiAiIiwKICAgICJhcGlfaWQiOiAiIgp9) |
-| E621 (Login not supported) | E621NG  | [https://e621.net](booru://ewogICAgIm5hbWUiOiAiRTYyMSIsCiAgICAidXJsIjogImh0dHBzOi8vZTYyMS5uZXQiLAogICAgImljb25fdXJsIjogIiIsCiAgICAidHlwZSI6ICJlNjIxbmciCn0) |
-| E926 (Login not supported) | E621NG  | [https://e926.net](booru://ewogICAgIm5hbWUiOiAiRTkyNiIsCiAgICAidXJsIjogImh0dHBzOi8vZTkyNi5uZXQiLAogICAgImljb25fdXJsIjogIiIsCiAgICAidHlwZSI6ICJlNjIxbmciCn0) |
+| E621 | E621NG  | [https://e621.net](booru://ewogICAgIm5hbWUiOiAiRTYyMSIsCiAgICAidXJsIjogImh0dHBzOi8vZTYyMS5uZXQiLAogICAgImljb25fdXJsIjogIiIsCiAgICAidHlwZSI6ICJlNjIxbmciCn0) |
+| E926 | E621NG  | [https://e926.net](booru://ewogICAgIm5hbWUiOiAiRTkyNiIsCiAgICAidXJsIjogImh0dHBzOi8vZTkyNi5uZXQiLAogICAgImljb25fdXJsIjogIiIsCiAgICAidHlwZSI6ICJlNjIxbmciCn0) |
 
 
 
